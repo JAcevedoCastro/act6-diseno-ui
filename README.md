@@ -17,3 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+## Diseño UI
+![image](https://github.com/JAcevedoCastro/act6-diseno-ui/assets/144373213/e8ed030c-3ecd-4faa-b2d7-c92adbf15bc5)
+![image](https://github.com/JAcevedoCastro/act6-diseno-ui/assets/144373213/0b97c546-b87b-4cf2-9533-cc8ce05fd42c)
+![image](https://github.com/JAcevedoCastro/act6-diseno-ui/assets/144373213/91e304ed-0331-4745-8c47-e3288a4e39cc)
